@@ -1,0 +1,41 @@
+.game {
+    max-width: 795px;
+    margin: auto;
+}
+
+#title {
+    margin: 20px 0;
+    font-size: 58px;
+    text-align: center;
+	font-weight: bold;
+	color: #0A0326;
+}
+
+.symbols > img {
+    display: block;
+    float: left;
+    width: 33.33%;
+    padding: 20px;
+    box-sizing: border-box;
+	margin: 35px auto;
+}
+
+.symbols:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+#request-button {
+    display: block;
+    background: url("img/button.png");
+    width: 98px;
+    height: 98px;
+    cursor: pointer;
+    border: none;
+    margin: 30px auto;
+}
+
+#request-button:disabled {
+    opacity: 0.5;
+}
