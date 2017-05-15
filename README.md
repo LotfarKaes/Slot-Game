@@ -7,7 +7,7 @@ which can display a random outcome generated on the server using NodeJs.
 ##### The application must work in major desktop and mobile devices.
 ##### The general principles by which the application will be evaluated are maintainability, testability and
 reusability.
-#### Unit Tests. #####The key is that the code is testable.
+##### Unit Tests. The key is that the code is testable.
 ### Client
 ##### Using JavaScript ES6 
 ##### The user able to trigger a request for outcome to the server.
