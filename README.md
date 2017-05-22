@@ -34,9 +34,9 @@ Small Win. Three equal integers constitutes a Big Win.
 ##### As usual select the folder Node.js apps run npm install and then command “node app.js” to start the server, then open http://localhost:3000 
 
 ### Version
-##### Let’s play game: 6.0.1
+##### Slot Game: 6.0.1
 ### Current Version
-##### Let’s play game: 6.0.1
+##### Slot Game: 6.0.1
 ### License
 #### MIT
 ### Author
